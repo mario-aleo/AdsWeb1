@@ -1,0 +1,27 @@
+Domínios:
+.COM - Domínio Comercial (Genérico)
+.EDU - Domínio Educacional
+.GOV - Domínio Governamental
+.MIL - Domínio Militar
+.ORG - Domínio de Organizações Sem Fins Lucrativos
+.NET - Domínio Network (Genérico)
+
+1 - O que são protocolos de comunicação de rede?
+R:  São convenções que definem e controlam as conexões, comunicações e transferencias de dados entre computadores.
+
+2 - Quais são os tipos de redes mais conhecidos atualmente?
+R:  Intranet, internet e localhost.
+
+3 - Qual é o protocolo de rede utilizado pela internet para transmissão de arquivos?
+R:  FTP.
+
+4 - Em quantas camadas está organizada a estrutura do protocolo TCP/IP e quais são?
+R:  São 4 camadas: Aplicação, Transporte, Internet, Rede.
+
+5 - Defina os termos Site e Home Page?
+R:  Home Page, também conhecida como Index, é a pagina central de um site, seja ela uma tela de login ou a tela de principais informações,
+    ela define por onde um site será acessado inicialmente.
+    Site, um conjuto de paginas WEB que formam um conjuto de informações reunidas.
+
+6 - Acesse o seguinte endereço:
+    http://archive.org/web/web.php
