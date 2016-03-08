@@ -54,13 +54,13 @@
 
 
 ### O que é seletor, propriedade e valor para CSS?
-  *Seletor é o #id, .class ou (elemento html) que faz a seleção de em qual elemento HTML aquele estilo será aplicado.
+  * Seletor é o #id, .class ou (elemento html) que faz a seleção de em qual elemento HTML aquele estilo será aplicado.
   Propriedade é o estilo que será aplicado naquele seletor: height, width, background-color, transform, etc.
   Valor é o valor que irá definir a alteração que a propriedade fará naquele seletor.
 
 
 ### O que é seletor CLASS para CSS?
-  *É o seletor que define a base de estilos de um conjunto de elementos HTML.
+  * É o seletor que define a base de estilos de um conjunto de elementos HTML.
 
 
 ### Comente sobre o seletor ID.
@@ -68,7 +68,7 @@
 
 
 ### O que é a regra de precedência de seletores para CSS?
-  *Seletor CLASS deve ser utilizado para um estilos de um conjunto de elementos HTML e o seletor ID deve utilizado para casos especificos de estilos de um ou mais elementos HTML.
+  * Seletor CLASS deve ser utilizado para um estilos de um conjunto de elementos HTML e o seletor ID deve utilizado para casos especificos de estilos de um ou mais elementos HTML.
 
 
 ### O termo BOX MODEL é utilizado em CSS quando?
@@ -82,8 +82,8 @@
   
   
 ### Qual é a propriedade que altera a largura e a altura em CSS?
-  *Para alterar a altura é utilizado HEIGHT, enquanto para alterar a largura é utilizado WIDTH.
+  * Para alterar a altura é utilizado HEIGHT, enquanto para alterar a largura é utilizado WIDTH.
   
   
 ### Comente sobre a utilização do FLOAT em CSS.
-  *Ajusta a posição de um elemento HTML em TOP, RIGHT, BOTTOM, LEFT.
+  * Ajusta a posição de um elemento HTML em TOP, RIGHT, BOTTOM, LEFT.
