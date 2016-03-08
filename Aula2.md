@@ -64,7 +64,7 @@
 
 
 ### Comente sobre o seletor ID.
-  *É o seletor aplicado para um caso especifico de elemento HTML.
+  * É o seletor aplicado para um caso especifico de elemento HTML.
 
 
 ### O que é a regra de precedência de seletores para CSS?
