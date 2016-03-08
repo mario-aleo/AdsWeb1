@@ -12,6 +12,7 @@
 ### Comente sobre a declaração da sintaxe CSS.
   * O CSS pode ser aplicado nos elementos HTML por ID ou CLASS.
   CSS pode ser escrito em um arquivo .css com a seguinte sintaxe:
+  ```
     div {
       height: 100vh;
       width: 100vw;
@@ -26,7 +27,9 @@
     .class {
       padding: 10vh;
     }
+  ```
   Também pode ser escrito no elemento STYLE do HTML:
+  ```
   <style>
     div {
       height: 100vh;
@@ -43,8 +46,11 @@
       padding: 10vh;
     }
   </style>
+  ```
   Ou escrito na propriedade style do elemento HTML:
+  ```
   <div style="height: 100vh; width: 100vw; padding: 10vh;"></div>
+  ```
 
 
 ### O que é seletor, propriedade e valor para CSS?
