@@ -69,7 +69,7 @@
 
 ### O que é a regra de precedência de seletores para CSS?
   * O seletor de um mesmo nome, tipo e propriedade, se definido suas vezes, receberá somente a propriedade do ultimo.
-  ´´´
+  ```
   #id {
     marrgin 10px;
   }
@@ -77,7 +77,7 @@
   #id {
     marrgin 20px;
   }
-  ´´´
+  ```
 
 
 ### O termo BOX MODEL é utilizado em CSS quando?
