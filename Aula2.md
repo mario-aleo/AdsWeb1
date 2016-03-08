@@ -54,11 +54,11 @@
 
 
 ### O que é seletor CLASS para CSS?
-  *É o seletor que normalmente define a base de estilos de um conjunto de elementos HTML.
+  *É o seletor que define a base de estilos de um conjunto de elementos HTML.
 
 
 ### Comente sobre o seletor ID.
-  *É o seletor que normalmente é aplicado para um caso especifico de elemento HTML.
+  *É o seletor aplicado para um caso especifico de elemento HTML.
 
 
 ### O que é a regra de precedência de seletores para CSS?
