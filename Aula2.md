@@ -96,3 +96,8 @@
   
 ### Comente sobre a utilização do FLOAT em CSS.
   * Ajusta a posição de um elemento HTML em TOP, RIGHT, BOTTOM, LEFT.
+  ```
+  div {
+    float: right;
+  }
+  ```
