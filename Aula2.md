@@ -107,3 +107,37 @@
  * http://www.concrete-beton.com/en
  * http://www.exo-skills.com/
  * http://htovey.com/weather-app/
+ 
+ 
+### Exemplos de CSS
+ * Text
+ 
+ ```
+ .menu-social-m {
+    float: left;
+    width: 100%;
+    height: 30px;
+    padding-bottom: 20px;
+    font-size: 0;
+    text-align: center
+ }
+ ```
+ 
+ * Border
+ 
+ ```
+ .nav-pages-item {
+    border-top: 1px solid #c4c4c4;
+    height: 60px;
+    line-height: 60px;
+    overflow: hidden
+ }
+ ```
+ 
+ * Background
+ 
+ ```
+ .thunderstorm {
+    background-color: #34495E;
+ }
+ ```
