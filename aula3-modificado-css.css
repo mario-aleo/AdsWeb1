@@ -38,6 +38,7 @@
 .search-location-text {
     font-size: 16px;
     font-weight:300;
+    font-family: sans-serif;
 }
 .search-text {
     text-align:center;
@@ -227,6 +228,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #fff;
     font-size:20px;
     font-weight:300;
+    font-family: sans-serif;
 }
 
 .nighttime .weather {
@@ -371,6 +373,7 @@ html, body {
 }
 .site-footer, .page-wrap:after {
   height: 100px; 
+  font-family: sans-serif;
 }
 .site-footer {
   background: #fff;
