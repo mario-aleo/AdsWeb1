@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    
+        <title>Aula3</title>
+    </head>
+
+    <body>
+        
+        <button id="showNum">Mostrar Valor do Numero</button>
+        
+        <script>
+            var num = 0;
+            var numTotal = 0;
+            
+            
+            for(var i = 0; i < 6; i++) {
+                num = i;
+                numTotal = i;
+            }
+            console.log("For result: " + num);
+            
+            
+            num = 0;
+            while(num < 10) {
+                num++;
+                numTotal++;
+            }
+            console.log("While result: " + num);
+            
+            
+            num = 0;
+            do {
+                num++;
+                numTotal++;
+            } while(num < 10);
+            console.log("Do-While result: " + num);
+            
+            
+            var createObject = function( titulo, mensagem ){
+              var object = {
+                  Titulo: titulo,
+                  Mensagem: mensagem
+              };
+              
+              var success = confirm(object.Titulo + '\n' + object.Mensagem);
+              
+              if(success == true){
+                  return object;
+              } else{
+                  object.Titulo = "";
+                  object.Mensagem = "O valor do Numero não foi validado.";
+                  return object
+              }
+            };
+            
+            
+            document.getElementById("showNum").onclick = function(){
+                var textObject = createObject("Contagem Total do Numero: ", numTotal);
+                
+                if(document.getElementById("numText") == null){
+                    var numText = document.createElement("P");
+                    numText.setAttribute("id", "numText");
+                    numText.appendChild( document.createTextNode(textObject.Titulo + textObject.Mensagem) );
+                    document.body.appendChild(numText);
+                } else{
+                    var numText = document.getElementById("numText")
+                    numText.replaceChild( document.createTextNode(textObject.Titulo + textObject.Mensagem), numText.innerHTML );
+                }   
+            };
+        </script>
+    </body>
+</html>
