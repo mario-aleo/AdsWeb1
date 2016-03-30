@@ -73,4 +73,4 @@
     ``?``
 
 ### Pra que servem as expressões condicionais em JavaScript?
-  *Para realizar operações logicas.
+  * Para realizar operações logicas.
