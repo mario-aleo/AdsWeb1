@@ -45,38 +45,32 @@
 
 ### Quais são os operadores aceitos em JavaScript?
   * Aritimeticos:
-  ``
-    +
-    -
-    *
-    /
-    %
-    ++
-    --
-  ``
+    ``+``
+    ``-``
+    ``*``
+    ``/``
+    ``%``
+    ``++``
+    ``--``
   
-  * Associação,
-  ``
-    =
-    +=
-    -=
-    *=
-    /=
-    %=
-  ``
+  * Associação:
+    ``=``
+    ``+=``
+    ``-=``
+    ``*=``
+    ``/=``
+    ``%=``
     
-  * Logicos
-  ``
-    ==
-    ===
-    !=
-    !==
-    >
-    <
-    >=
-    <=
-    ?
-  ``
+  * Logicos:
+    ``==``
+    ``===``
+    ``!=``
+    ``!==``
+    ``>``
+    ``<``
+    ``>=``
+    ``<=``
+    ``?``
 
 ### Pra que servem as expressões condicionais em JavaScript?
   *Para realizar operações logicas.
